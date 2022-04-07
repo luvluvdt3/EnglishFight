@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:gravity="center_vertical|center_horizontal">
+    <Toolbar
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center_vertical|center_horizontal">
+        android:minHeight="?attr/actionBarSize">
+        <ImageView
+            android:id="@+id/labelImg"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:src="@drawable/purfection"
+            />
+        <TextView
+            android:id="@+id/labelTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="English Fight"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#DBE0F8"/>
+
+    </Toolbar>
+
+</LinearLayout>

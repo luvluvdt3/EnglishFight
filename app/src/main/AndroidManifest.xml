@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project_tu">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/purfection"
+        android:label="English Fight"
+        android:roundIcon="@drawable/purfection"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project_Tu">
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true"
+            android:screenOrientation="locked">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" android:screenOrientation="locked"></activity>
+        <activity android:name=".CourActivity" android:screenOrientation="locked"></activity>
+        <activity android:name=".quiz.QuizActivity" android:screenOrientation="locked"></activity>
+        <activity android:name=".result.ResultActivity" android:screenOrientation="locked"></activity>
+        <activity android:name=".word.WordActivity" android:screenOrientation="locked"></activity>
+        <activity android:name=".date.DateActivity" android:screenOrientation="locked"></activity>
+        <activity android:name=".cours.CoursClause" android:hardwareAccelerated="true" android:screenOrientation="locked"></activity>
+        <activity android:name=".cours.CoursTenses" android:hardwareAccelerated="true" android:screenOrientation="locked"></activity>
+        <activity android:name=".cours.CoursEnglishWord" android:hardwareAccelerated="true" android:screenOrientation="locked"></activity>
+
+    </application>
+
+</manifest>

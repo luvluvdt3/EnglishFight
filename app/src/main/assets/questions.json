@@ -1,0 +1,399 @@
+{
+  "words":[
+    {
+      "textQuestion": "It's an animal that can fly",
+      "key1": "R",
+      "key2": "I",
+      "key3":"B",
+      "key4":"D",
+      "key5":"X",
+      "textAnswer":"BIRD"
+    },
+    {
+      "textQuestion": "It's the king of jungle",
+      "key1": "L",
+      "key2": "I",
+      "key3":"O",
+      "key4":"N",
+      "key5":"K",
+      "textAnswer":"LION"
+    },
+    {
+      "textQuestion": "What is this grumpy yet surprised bird called?",
+      "key1": "P",
+      "key2": "O",
+      "key3":"T",
+      "key4":"X",
+      "key5":"O",
+      "key6":"O",
+      "textAnswer":"POTOO"
+    },
+    {
+      "textQuestion": "A very, super, mega cute animal",
+      "key1": "L",
+      "key2": "A",
+      "key3":"L",
+      "key4":"A",
+      "key5":"N",
+      "key6":"M",
+      "textAnswer":"LLAMA"
+    },
+    {
+      "textQuestion": "Animal who likes to build their home by the river",
+      "key1": "E",
+      "key2": "B",
+      "key3":"A",
+      "key4":"E",
+      "key5":"V",
+      "key6":"T",
+      "key7":"R",
+      "textAnswer":"BEAVER"
+    },
+    {
+      "textQuestion": "What is the most dangerous animal in Africa?",
+      "key1": "I",
+      "key2": "H",
+      "key3":"P",
+      "key4":"P",
+      "key5":"I",
+      "key6":"O",
+      "textAnswer":"HIPPO"
+    },
+    {
+      "textQuestion": "An informal restaurant, coffee shop that usually specializes in simple meals, coffees, and desserts.",
+      "key1": "S",
+      "key2": "A",
+      "key3":"E",
+      "key4":"F",
+      "key5":"C",
+      "textAnswer":"CAFE"
+    },
+    {
+      "textQuestion": "An area of land, along with buildings and equipment, used to grow crops.",
+      "key1": "A",
+      "key2": "F",
+      "key3":"R",
+      "key4":"M",
+      "key5":"T",
+      "textAnswer":"FARM"
+    },
+    {
+      "textQuestion": "A place where goods are sold.",
+      "key1": "R",
+      "key2": "A",
+      "key3":"M",
+      "key4":"K",
+      "key5":"E",
+      "key6":"T",
+      "key7":"O",
+      "textAnswer":"MARKET"
+    },
+    {
+      "textQuestion": "A traveling show with clowns, acrobats, and other acts.",
+      "key1": "R",
+      "key2": "I",
+      "key3":"C",
+      "key4":"C",
+      "key5":"U",
+      "key6":"S",
+      "key7":"G",
+      "textAnswer":"CIRCUS"
+    },
+    {
+      "textQuestion": "A place with many rooms and beds where people pay money to sleep, eat meals, or buy other services.",
+      "key1": "T",
+      "key2": "O",
+      "key3":"H",
+      "key4":"E",
+      "key5":"K",
+      "key6":"L",
+      "textAnswer":"HOTEL"
+    },
+    {
+      "textQuestion": "A place where things are sold",
+      "key1": "O",
+      "key2": "P",
+      "key3":"S",
+      "key4":"H",
+      "key5":"I",
+      "textAnswer":"SHOP"
+    },
+    {
+      "textQuestion": "A place where you go to take out money",
+      "key1": "A",
+      "key2": "B",
+      "key3":"N",
+      "key4":"I",
+      "key5":"K",
+      "textAnswer":"BANK"
+    },
+    {
+      "textQuestion": "A place where you go to watch a movie",
+      "key1": "N",
+      "key2": "E",
+      "key3":"C",
+      "key4":"I",
+      "key5":"M",
+      "key6":"P",
+      "key7":"A",
+      "textAnswer":"CINEMA"
+    },
+
+    {
+      "textQuestion": "A food made by baking a dough of flour or meal",
+      "key1": "B",
+      "key2": "A",
+      "key3":"E",
+      "key4":"R",
+      "key5":"K",
+      "key6":"D",
+      "textAnswer":"BREAD"
+    },
+    {
+      "textQuestion": "A long orange root vegetable",
+      "key1": "R",
+      "key2": "C",
+      "key3":"R",
+      "key4":"A",
+      "key5":"O",
+      "key6":"T",
+      "key7":"E",
+      "textAnswer":"CARROT"
+    },
+    {
+      "textQuestion": "A small, juicy fruit, with a smooth skin that is either green, red, or purple",
+      "key1": "B",
+      "key2": "G",
+      "key3":"R",
+      "key4":"A",
+      "key5":"P",
+      "key6":"E",
+      "textAnswer":"GRAPE"
+    },
+    {
+      "textQuestion": "The liquid from fruits is used for drinking.",
+      "key1": "T",
+      "key2": "E",
+      "key3":"C",
+      "key4":"I",
+      "key5":"U",
+      "key6":"J",
+      "textAnswer":"JUICE"
+    },
+    {
+      "textQuestion": "The seed of this grass, which is a very important food",
+      "key1": "C",
+      "key2": "R",
+      "key3":"I",
+      "key4":"E",
+      "key5":"T",
+      "textAnswer":"RICE"
+    },
+    {
+      "textQuestion": "A food made from flour, eggs, and water and dried in various forms, such as macaroni or spaghetti.",
+      "key1": "T",
+      "key2": "S",
+      "key3":"A",
+      "key4":"P",
+      "key5":"A",
+      "key6":"E",
+      "textAnswer":"PASTA"
+    },
+    {
+      "textQuestion": "To release air noisily from the lungs",
+      "key1": "G",
+      "key2": "O",
+      "key3":"C",
+      "key4":"U",
+      "key5":"D",
+      "key6":"H",
+      "textAnswer":"COUGH"
+    },
+    {
+      "textQuestion": "To cause pain, harm, or suffering to",
+      "key1": "U",
+      "key2": "R",
+      "key3":"H",
+      "key4":"T",
+      "key5":"D",
+      "textAnswer":"HURT"
+    },
+    {
+      "textQuestion": "A sport played on ice, with two teams of six skating players",
+      "key1": "H",
+      "key2": "C",
+      "key3":"O",
+      "key4":"K",
+      "key5":"E",
+      "key6":"Y",
+      "key7":"A",
+      "textAnswer":"HOCKEY"
+    },
+    {
+      "textQuestion": "A game whose players hitting a small ball back and forth over a net using racket",
+      "key1": "N",
+      "key2": "E",
+      "key3":"T",
+      "key4":"N",
+      "key5":"I",
+      "key6":"S",
+      "key7":"Z",
+      "textAnswer":"TENNIS"
+    },
+    {
+      "textQuestion": "A game in which a club is used to hit a small ball into a hole in the ground",
+      "key1": "F",
+      "key2": "O",
+      "key3":"G",
+      "key4":"L",
+      "key5":"U",
+      "textAnswer":"GOLF"
+    }
+  ],
+  "quiz":[
+    {
+      "question":"Hello, how can I help? - I want to book __________ a ticket.",
+      "answer1": "advance",
+      "answer2": "first",
+      "answer3":"in advance",
+      "answer4":"the first",
+      "correct":"in advance"
+    },
+    {
+      "question":"Jack couldn't pass the final _____________.",
+      "answer1": "examinational",
+      "answer2": "examine",
+      "answer3":"examining",
+      "answer4":"examination",
+      "correct":"examination"
+    },
+    {
+      "question":"If I were the Prime Minister, I _________ more money on education.",
+      "answer1": "spent",
+      "answer2": "will spend",
+      "answer3":"would spend",
+      "answer4":"spending",
+      "correct":"would spend"
+    },
+    {
+      "question":"If you want any further __________, you can contact to the head office.",
+      "answer1": "questions",
+      "answer2": "information",
+      "answer3":"answers",
+      "answer4":"responses",
+      "correct":"information"
+    },
+    {
+      "question":"Choose the word whose the position of primary stress differs from the three ones.",
+      "answer1": "reputation",
+      "answer2": "invitation",
+      "answer3":"production",
+      "answer4":"introduction",
+      "correct":"production"
+    },
+    {
+      "question":"He said that he ________ learning with you.",
+      "answer1": "like",
+      "answer2": "to like",
+      "answer3":"liking",
+      "answer4":"liked",
+      "correct":"liked"
+    },
+    {
+      "question":"Choose the word whose the underlined part is pronounced differently.",
+      "answer1": "picture",
+      "answer2": "lecture",
+      "answer3":"furniture",
+      "answer4":"cure",
+      "correct":"cure"
+    },
+    {
+      "question":"If there ________ gravity, water wouldn't run downhill.",
+      "answer1": "aren't",
+      "answer2": "isn't",
+      "answer3":"wasn't",
+      "answer4":"hadn't",
+      "correct":"wasn't"
+    },
+    {
+      "question":"When I saw Daisy, she said she was taking her driving test ____________.",
+      "answer1": "today",
+      "answer2": "the tomorrow",
+      "answer3":"the next day",
+      "answer4":"tomorrow",
+      "correct":"the next day"
+    },
+    {
+      "question":"_______ you want to keep fit, you should do more exercises",
+      "answer1": "Although",
+      "answer2": "However",
+      "answer3":"If",
+      "answer4":"Where",
+      "correct":"If"
+    },
+    {
+      "question":"These flowers ________ in a warm sunny place.",
+      "answer1": "should be kept",
+      "answer2": "keep",
+      "answer3":"be kept",
+      "answer4":"should be keep",
+      "correct":"should be kept"
+    },
+    {
+      "question":"A ________ is a piece of land that is a protected area for animals or plants",
+      "answer1": "habitat",
+      "answer2": "conservation",
+      "answer3":"preserve",
+      "answer4":"species",
+      "correct":"habitat"
+    },
+    {
+      "question":"He said that he ________ his homework since 7 o'clock.",
+      "answer1": "had done",
+      "answer2": "has done",
+      "answer3":"was doing",
+      "answer4":"did",
+      "correct":"had done"
+    },
+    {
+      "question":"I _________ my best suit because everyone else was very casually dressed.",
+      "answer1": "needn't wear",
+      "answer2": "needn't have worn",
+      "answer3":"mustn't have worn",
+      "answer4":"mustn't wear",
+      "correct":"needn't have worn"
+    },
+    {
+      "question":"Women only began to gain ________ with men in the 20th century.",
+      "answer1": "fair",
+      "answer2": "equality",
+      "answer3":"same",
+      "answer4":"balance",
+      "correct":"equality"
+    },
+    {
+      "question":"When I ________ here for fifteen years I'll be entitled to a pension.",
+      "answer1": "am working",
+      "answer2": "work",
+      "answer3":"had worked",
+      "answer4":"have worked",
+      "correct":"have worked"
+    },
+    {
+      "question":"This house was said _________ two hundred years ago.",
+      "answer1": "to build",
+      "answer2": "that have been built",
+      "answer3":"that it built",
+      "answer4":"to have been built",
+      "correct":"to have been built"
+    },
+    {
+      "question":"I don’t believe a word he said. I think he just _________ that story.",
+      "answer1": "made up",
+      "answer2": "went away",
+      "answer3":"turned up",
+      "answer4":"got over",
+      "correct":"made up"
+    }
+  ]
+}

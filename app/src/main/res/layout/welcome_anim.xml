@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgradient"
+    tools:context=".WelcomeActivity">
+
+    <ImageView
+        android:id="@+id/photo1"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/american" />
+
+    <TextView
+        android:id="@+id/EnglishFight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English Fight"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_vertical"
+        android:textSize="48dp"
+        android:textStyle="bold"
+        android:textColor="#97D6F3"
+        android:layout_marginTop="50dp"
+        android:visibility="invisible"
+        android:fontFamily="monospace"
+        />
+    <ImageView
+        android:id="@+id/photo2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="5dp"
+        android:src="@drawable/london" />
+
+
+</LinearLayout>
